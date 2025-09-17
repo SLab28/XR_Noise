@@ -1,0 +1,20 @@
+{
+  "name": "perlin-noise-3d",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel src/*.html --open",
+    "build": "parcel build src/*.html --public-url ./"
+  },
+  "dependencies": {
+    "dat.gui": "0.x",
+    "glsl-noise": "^0.0.0",
+    "three": "0.x"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.8.3",
+    "parcel": "^2.7.0"
+  },
+  "keywords": []
+}
