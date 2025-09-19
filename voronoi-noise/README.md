@@ -1,3 +1,0 @@
-## Voronoi XR
-
-TODO
